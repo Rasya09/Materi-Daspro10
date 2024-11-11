@@ -1,6 +1,8 @@
-def penjumlahan(a, b):
-    hasil = a + b
-    return hasil
+angka1= 10
+angka2= -50
+def penjumlahan():
+    hasil = angka1 + angka2
+    print(hasil)
 
 
-penjumlahan(10, -50)
+penjumlahan()
