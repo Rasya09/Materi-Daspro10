@@ -1,4 +1,6 @@
-def greeting(nama):
+def greeting(nama = "Juicy"):
     print(f"Halo, {nama}")
 
-greeting("Aulia")
+greeting()
+greeting("Luicy")
+greeting("Tiara")
